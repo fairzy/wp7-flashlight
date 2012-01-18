@@ -1,0 +1,14 @@
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\FlashLightTest\Bin\Debug\ApplicationIcon.png
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\FlashLightTest\Bin\Debug\Background.png
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\FlashLightTest\Bin\Debug\AppManifest.xaml
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\FlashLightTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\FlashLightTest\obj\Debug\App.g.i.cs
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\FlashLightTest\obj\Debug\MainPage.g.i.cs
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\FlashLightTest\obj\Debug\XapCacheFile.xml
+C:\Users\fairzy\documents\visual studio 2010\Projects\FlashLight\FlashLightTest\Bin\Debug\SplashScreenImage.jpg
+C:\Users\fairzy\documents\visual studio 2010\Projects\FlashLight\FlashLightTest\Bin\Debug\FlashLightTest.dll
+C:\Users\fairzy\documents\visual studio 2010\Projects\FlashLight\FlashLightTest\Bin\Debug\FlashLightTest.pdb
+C:\Users\fairzy\documents\visual studio 2010\Projects\FlashLight\FlashLightTest\Bin\Debug\FlashLightTest.xap
+C:\Users\fairzy\documents\visual studio 2010\Projects\FlashLight\FlashLightTest\obj\Debug\FlashLightTest.g.resources
+C:\Users\fairzy\documents\visual studio 2010\Projects\FlashLight\FlashLightTest\obj\Debug\FlashLightTest.dll
+C:\Users\fairzy\documents\visual studio 2010\Projects\FlashLight\FlashLightTest\obj\Debug\FlashLightTest.pdb

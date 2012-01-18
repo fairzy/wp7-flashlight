@@ -1,0 +1,13 @@
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\BasicCamera\Bin\Debug\ApplicationIcon.png
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\BasicCamera\Bin\Debug\Background.png
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\BasicCamera\Bin\Debug\BasicCamera.dll
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\BasicCamera\Bin\Debug\BasicCamera.pdb
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\BasicCamera\Bin\Debug\AppManifest.xaml
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\BasicCamera\Bin\Debug\BasicCamera.xap
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\BasicCamera\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\BasicCamera\obj\Debug\App.g.i.cs
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\BasicCamera\obj\Debug\MainPage.g.i.cs
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\BasicCamera\obj\Debug\BasicCamera.g.resources
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\BasicCamera\obj\Debug\BasicCamera.dll
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\BasicCamera\obj\Debug\BasicCamera.pdb
+C:\Users\fairzy\Documents\Visual Studio 2010\Projects\FlashLight\BasicCamera\obj\Debug\XapCacheFile.xml
